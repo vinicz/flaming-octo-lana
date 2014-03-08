@@ -1,0 +1,79 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{75326061-09CD-ABA9-8087-D0E7C2CC0D3F}") = "flaming-octo-lana", "Assembly-CSharp-firstpass.csproj", "{7C9C301B-16E6-4689-1ABE-C669E1383505}"
+EndProject
+Project("{75326061-09CD-ABA9-8087-D0E7C2CC0D3F}") = "flaming-octo-lana", "Assembly-CSharp.csproj", "{F7895E2A-1A8D-EEF7-F98F-5BBA589BEAEF}"
+EndProject
+Project("{75326061-09CD-ABA9-8087-D0E7C2CC0D3F}") = "flaming-octo-lana", "Assembly-UnityScript.unityproj", "{0C347794-6C5D-A362-9C4D-F414685A94A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C9C301B-16E6-4689-1ABE-C669E1383505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C9C301B-16E6-4689-1ABE-C669E1383505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C9C301B-16E6-4689-1ABE-C669E1383505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C9C301B-16E6-4689-1ABE-C669E1383505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7895E2A-1A8D-EEF7-F98F-5BBA589BEAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7895E2A-1A8D-EEF7-F98F-5BBA589BEAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7895E2A-1A8D-EEF7-F98F-5BBA589BEAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7895E2A-1A8D-EEF7-F98F-5BBA589BEAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C347794-6C5D-A362-9C4D-F414685A94A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C347794-6C5D-A362-9C4D-F414685A94A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C347794-6C5D-A362-9C4D-F414685A94A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C347794-6C5D-A362-9C4D-F414685A94A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+					GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.EolMarker = Unix
+		$1.inheritsSet = VisualStudio
+		$1.inheritsScope = text/plain
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.IndentSwitchBody = True
+		$2.NamespaceBraceStyle = EndOfLine
+		$2.ClassBraceStyle = EndOfLine
+		$2.InterfaceBraceStyle = EndOfLine
+		$2.StructBraceStyle = EndOfLine
+		$2.EnumBraceStyle = EndOfLine
+		$2.MethodBraceStyle = EndOfLine
+		$2.ConstructorBraceStyle = EndOfLine
+		$2.DestructorBraceStyle = EndOfLine
+		$2.EventRemoveBraceStyle = NextLine
+		$2.ArrayInitializerBraceStyle = NextLine
+		$2.BeforeMethodDeclarationParentheses = False
+		$2.BeforeMethodCallParentheses = False
+		$2.BeforeConstructorDeclarationParentheses = False
+		$2.BeforeDelegateDeclarationParentheses = False
+		$2.NewParentheses = False
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+		$0.TextStylePolicy = $4
+		$4.inheritsSet = null
+		$4.scope = application/xml
+		$0.XmlFormattingPolicy = $5
+		$5.inheritsSet = Mono
+		$5.inheritsScope = application/xml
+		$5.scope = application/xml
+		$0.TextStylePolicy = $6
+		$6.inheritsSet = null
+		$6.scope = application/javascript
+	EndGlobalSection
+
+EndGlobal

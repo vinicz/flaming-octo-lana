@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Public\Documents\Unity Projects\BallBounce\Assets\Scripts\BallRotator.cs">
+    <Files>
+      <File FileName="..\..\..\Public\Documents\Unity Projects\BallBounce\Assets\Scripts\BallController.cs" Line="10" Column="32" />
+      <File FileName="..\..\..\Public\Documents\Unity Projects\BallBounce\Assets\Scripts\BallRotator.cs" Line="6" Column="31" />
+      <File FileName="..\..\..\Public\Documents\Unity Projects\BallBounce\Assets\Scripts\ArrowRotator.cs" Line="8" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
